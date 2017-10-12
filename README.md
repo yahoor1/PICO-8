@@ -21,6 +21,8 @@ Just copy .p8 files to carts folder, then open PICO-8 and type `load <filename>`
 ### Windows
 `C:/Users/<user_name>/AppData/Roaming/pico-8/carts`
 
-## play online
+## Play online
 
-[snake](https://code-evolution.eu/pico-8/snake/)
+- [Pico-8 Snake](https://code-evolution.eu/pico-8/snake/)
+
+![Snake](https://code-evolution.eu/pico-8/snake/snake.gif)
