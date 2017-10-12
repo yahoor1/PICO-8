@@ -35,7 +35,7 @@ end
 function draw_credits()
 	cls(conf.background)
 	write("snake",54,30,3,6)
-	write("(c) jan osio",54,40,3,6)
+	write("(c) 2017 jan osio",30,40,3,6)
 	write("<z> - back to menu",26,110,0,6)
 end
 
@@ -55,7 +55,7 @@ end
 function draw_rip()
 	cls(conf.background)
 	write("you are died!",37,20,8,14)
-	write("your score: "..snake.length-1,38,60,3,6)
+	write("your score: "..snake.length-1,34,60,3,6)
 	write("press <z> to play again",16,110,0,6)
 end
 
